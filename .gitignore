@@ -1,0 +1,12 @@
+# Файлы ОС
+.DS_Store
+Thumbs.db
+
+# Зависимости
+node_modules/
+
+# Логи
+npm-debug.log*
+
+# Редактор
+.vscode/
